@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+openai
+folium
+streamlit_folium==0.11.1
+twilio

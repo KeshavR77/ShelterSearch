@@ -1,6 +1,6 @@
 ## ShelterSearch
 
-# Useage
+# Usage
 Please visit https://keshavra-sheltersearch.hf.space/.
 
 # Inspiration

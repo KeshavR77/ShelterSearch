@@ -1,5 +1,8 @@
 ## ShelterSearch
 
+# Useage
+Please visit https://keshavra-sheltersearch.hf.space/.
+
 # Inspiration
 For the last couple of years, I've been an operations/tech intern at a couple of nonprofit shelters for unhoused youth (one in SF, one in Oakland/Berkeley). I identified one large problem: lack of quality information about shelters for unhoused youth in need of help. There's a bunch of information out there, but a lot of it is inaccurate and overcomplicated, leaving unhoused youth, who often face trauma and mental health issues, confused. My app seeks to solve this issue, simplifying the process and making it easy to quickly receive help.
 

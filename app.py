@@ -139,6 +139,7 @@ def get_coordinates(zipcode: str, api_key: str) -> list:
 
     response = requests.get(base_url, params=params)
     data = response.json()
+    print(data)
     return [data.get('lat'), data.get('lon')]
 
 def haversine(lat1, lon1, lat2, lon2):
@@ -283,6 +284,8 @@ else:
             scores.append('time_score')
         elif data['Urgency'] == "In a week or more":
             pass
+
+        print(scores)
             
         # calcualte cumulative score
         shelters['total_score'] = shelters[scores].sum(axis=1)
